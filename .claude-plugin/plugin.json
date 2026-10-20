@@ -1,0 +1,13 @@
+{
+  "name": "bug-video-to-jira",
+  "version": "1.0.0",
+  "description": "Turn bug videos/screenshots (file, Google Drive, BetterBugs) into Jira bug tickets with reproduce steps and actual results",
+  "author": {
+    "name": "QA"
+  },
+  "license": "MIT",
+  "keywords": ["qa", "jira", "bug-report", "betterbugs", "video", "test"],
+  "skills": [
+    "./skills/bug-video-to-jira"
+  ]
+}

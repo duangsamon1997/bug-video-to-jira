@@ -1,0 +1,25 @@
+{
+  "name": "bug-video-to-jira",
+  "id": "bug-video-to-jira",
+  "description": "Marketplace for the bug-video-to-jira QA skill",
+  "owner": {
+    "name": "QA"
+  },
+  "metadata": {
+    "description": "Bug video/screenshot to Jira bug ticket",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bug-video-to-jira",
+      "description": "Bug video/screenshot to Jira bug ticket, via /bug-video-to-jira",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "QA"
+      },
+      "keywords": ["qa", "jira", "bug-report"],
+      "category": "qa"
+    }
+  ]
+}

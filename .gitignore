@@ -1,0 +1,4 @@
+# ค่า Jira ของทีม ห้ามขึ้น repo
+skills/bug-video-to-jira/config/boards.local.md
+dist/
+.DS_Store
